@@ -15,11 +15,11 @@ keywords: ityouknow,纯洁的微笑,Spring,Spring Boot,Spring Cloud,MongoDB,Jvm,
 encoding: "utf-8"
 favicon: favicon.png 
 
-repository: ityouknow/ityouknow.github.io
-github_url: https://github.com/ityouknow
-cnblog_url: http://www.cnblogs.com/ityouknow
-url: http://www.ityouknow.com
-enforce_ssl: ityouknow.com
+repository: DK310/DK310.github.io
+github_url: https://github.com/DK310
+cnblog_url: http://www.cnblogs.com/DK310
+url: http://www.DK310.com
+enforce_ssl: DK310.com
 
 ## Gem
 plugins:
@@ -58,6 +58,7 @@ paginate_path: 'page:num'
 navs:
 
   -
+  
     href: /
     label: Home
 
